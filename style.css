@@ -174,7 +174,7 @@ header,
 }
 
 .yolo{
-	background-color: black;
+    background-color: black;
     opacity: 0.9;
 }
 .carousel-content {
@@ -259,12 +259,6 @@ header,
   position: relative;
 }
 
-body {
-  color: #666666;
-  font-family: "Open Sans",sans-serif;
-  line-height: 24px;
-}
-
 .footer-top-layout [class*="col-sm-"]:first-child {
   padding: 0;
 }
@@ -291,11 +285,7 @@ address {
 .footer-top-layout {
   color: #ffffff;
 }
-body {
-  color: #666666;
-  font-family: "Open Sans",sans-serif;
 
-}
 .footer-top-layout h4 {
   color: #ffffff;
   font-size: 18px;
@@ -308,11 +298,7 @@ body {
   line-height: 1.1;
   margin-top: 0;
 }
-body {
-  color: #666666;
-  font-family: "Open Sans",sans-serif;
-  line-height: 24px;
-}
+
 .footer-col-item .item-contact a {
   color: #545454;
   display: inline-block;
